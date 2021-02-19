@@ -1,0 +1,64 @@
+{
+  "factories": [
+    {
+      "id": 1,
+      "factoryName": "Health",
+      "factoryOwner": "Ewald Rodriguez",
+      "status": "Draft"
+    },
+    {
+      "id": 2,
+      "factoryName": "Jewelery",
+      "factoryOwner": "Garrison Murazik",
+      "status": "Draft"
+    },
+    {
+      "id": 3,
+      "factoryName": "Electronics",
+      "factoryOwner": "Lucinda Prohaska",
+      "status": "Draft"
+    },
+    {
+      "id": 4,
+      "factoryName": "Baby",
+      "factoryOwner": "Kristy Beatty",
+      "status": "Draft"
+    },
+    {
+      "id": 5,
+      "factoryName": "Computers",
+      "factoryOwner": "Sydni Schoen",
+      "status": "Draft"
+    },
+    {
+      "id": 6,
+      "factoryName": "Outdoors",
+      "factoryOwner": "Adaline Steuber",
+      "status": "Draft"
+    },
+    {
+      "id": 7,
+      "factoryName": "Grocery",
+      "factoryOwner": "Trent Schimmel",
+      "status": "Draft"
+    },
+    {
+      "id": 8,
+      "factoryName": "Books",
+      "factoryOwner": "Eden Marks",
+      "status": "Draft"
+    },
+    {
+      "id": 9,
+      "factoryName": "Garden",
+      "factoryOwner": "Daren Smith",
+      "status": "Draft"
+    },
+    {
+      "id": 10,
+      "factoryName": "Home",
+      "factoryOwner": "Roslyn Price",
+      "status": "Draft"
+    }
+  ]
+}
